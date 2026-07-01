@@ -1,5 +1,8 @@
 # New Year Tracker
 
+<img src="./photos/1.png/" width=600 height=auto>
+<img src="./photos/2.png/" width=600 height=auto>
+
 ### [EN]
 
 An interactive web application with a minimalist and intuitive design.
@@ -31,6 +34,3 @@ The project is implemented in pure JavaScript using Multi-Page Architecture (MPA
 
 [Основная ссылка](https://r3nfix.github.io/new-year-tracker/)  
 [Альтернативная ссылка netlify](https://new-year-tracker.netlify.app) (может не работать без VPN в России)
-
-<img src="./photos/1.png/" width=600 height=auto>
-<img src="./photos/2.png/" width=600 height=auto>
